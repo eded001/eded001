@@ -1,5 +1,5 @@
 
-# Oii, eu sou o Edgar 👋🏼
+# Oii 👋🏼 eu sou o Edgar
 Tenho 19 anos e adoro computação, matemática e, principalmente, programação.
 
 ![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=eded001&hide=stars,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
