@@ -7,18 +7,12 @@ Tenho 19 anos e adoro computação, matemática e, principalmente, programação
 
 ## 🗂️ Principais projetos
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-heapsters-account&repo=projeto-de-extensao-de-java&theme=tokyonight)](https://github.com/the-heapsters-account/projeto-de-extensao-de-java)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=aleitamento-materno&theme=tokyonight)](https://github.com/eded001/aleitamento-materno)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=projeto-mata-atlantica&theme=tokyonight)](https://github.com/eded001/projeto-mata-atlantica)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=trabalho-de-lp&theme=tokyonight)](https://github.com/eded001/trabalho-de-lp)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=to-do-list&theme=tokyonight)](https://github.com/eded001/to-do-list)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=gerador-de-cores&theme=tokyonight)](https://github.com/eded001/gerador-de-cores)
-[
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=projeto-fisica&theme=tokyonight)](https://github.com/eded001/projeto-fisica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=aleitamento-materno&theme=tokyonight)](https://github.com/eded001/aleitamento-materno)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=projeto-mata-atlantica&theme=tokyonight)](https://github.com/eded001/projeto-mata-atlantica)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=trabalho-de-lp&theme=tokyonight)](https://github.com/eded001/trabalho-de-lp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=to-do-list&theme=tokyonight)](https://github.com/eded001/to-do-list)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=gerador-de-cores&theme=tokyonight)](https://github.com/eded001/gerador-de-cores)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=projeto-fisica&theme=tokyonight)](https://github.com/eded001/projeto-fisica)
 
 ## 📚 Linguagens
 Tenho pleno domínio em linguagens do front end e sei de forma aprofundada tecnologias do back end.
@@ -30,7 +24,7 @@ Tenho pleno domínio em linguagens do front end e sei de forma aprofundada tecno
   <img alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/>
-    <img alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"/>
+	<img alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg"/>
 </p>
 
 ## 🪑🎲 DBs
@@ -55,18 +49,22 @@ Tenho pleno domínio em linguagens do front end e sei de forma aprofundada tecno
 </p>
 
 - Tenho noções intermediárias do framework **Electron**
-<p><img alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/></p>
+<p>
+	<img alt="Electron" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"/>
+</p>
   
  - Sei utilizar o gerenciador de projetos **Maven**
 <p><img alt="Maven" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg"/></p>
 
  - Sei trabalhar com versionamento de código com **Git** e também sei usar o **Git Bash**
-<p><img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/></p>
+<p>
+	<img alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+</p>
 
 - Sei utilizar **gerenciadores de pacotes**
 <p>
 	<img alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"/>
-		<img alt="PyPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pypi/pypi-original.svg"/>
+	<img alt="PyPI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pypi/pypi-original.svg"/>
 </p>
 
 - Extras
@@ -80,4 +78,4 @@ Tenho pleno domínio em linguagens do front end e sei de forma aprofundada tecno
 </p>
 
 ## 💬 Redes sociais
-[<img alt="" height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/ed_ed001) [<img alt="" height="30" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edgar-augusto-mendes-de-souza-346643276/)
+[<img alt="Instagram" height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/ed_ed001) [<img alt="Linkedin" height="30" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edgar-augusto-mendes-de-souza-346643276/)
