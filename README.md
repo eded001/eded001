@@ -6,7 +6,7 @@ Tenho 19 anos e adoro computação, matemática e, principalmente, programação
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eded001&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## 🗂️ Principais projetos
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-heapsters-account&repo=projeto-de-extensao-de-java&theme=tokyonight)](https://github.com/the-heapsters-account/projeto-de-extensao-de-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=the-heapsters-account&repo=projeto-de-extensao-de-java&theme=tokyonight)](https://github.com/the-heapsters-account/duck-manager)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=aleitamento-materno&theme=tokyonight)](https://github.com/eded001/aleitamento-materno)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=projeto-mata-atlantica&theme=tokyonight)](https://github.com/eded001/projeto-mata-atlantica)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=eded001&repo=trabalho-de-lp&theme=tokyonight)](https://github.com/eded001/trabalho-de-lp)
