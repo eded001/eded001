@@ -2,7 +2,7 @@
 # Oii 👋🏼 eu sou o Edgar
 Tenho 19 anos e adoro computação, matemática e, principalmente, programação.
 
-Quer saber mais? Então, clique [aqui](https://eded001.github.io/eded001/portifolio/) e veja o meu portfólio com os meus principais projetos!
+Quer saber mais? Então, clique [aqui](https://eded001.github.io/portfolio/portifolio/) e veja o meu portfólio com os meus principais projetos!
 
 ![Ed's GitHub stats](https://github-readme-stats.vercel.app/api?username=eded001&hide=stars,issues&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eded001&layout=donut&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
