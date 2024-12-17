@@ -80,4 +80,4 @@ Tenho pleno domínio em linguagens do front end e sei de forma aprofundada tecno
 </p>
 
 ## 💬 Redes sociais
-[<img alt="Instagram" height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/ed_ed001) [<img alt="Linkedin" height="30" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edgar-augusto-mendes-de-souza-346643276/)
+[<img alt="Instagram" height="30" width="130" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://instagram.com/ed_ed001) [<img alt="Linkedin" height="30" width="130" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/edgar-augusto-mendes-de-souza-346643276/) [<img alt="Dev Community" height="30" width="130" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>](https://www.dev.to/eded001)
