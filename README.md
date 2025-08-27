@@ -66,7 +66,7 @@ Atualmente atuo como estagiário na [SEMCULT - Secretaria Municipal de Cultura e
 - **[Calop Agender](https://github.com/amazonext/calop-agender)** – Aplicativo para agendamentos e notificações.
 
 ### 💲 Freelance
-- **[Aleitamento Materno](https://eded001.github.io/aleitamento-materno)**
+- **[Aleitamento Materno](https://eded001.github.io/aleitamento-materno)** - Site informativo do material elaborado por alunos de fonoaudiologia da [UEPA - Universidade Estadual do Pará](https://www.uepa.br/).
 
 ---
 
