@@ -6,7 +6,7 @@ Atualmente atuo como estagiário na [SEMCULT - Secretaria Municipal de Cultura e
 
 👑 Fundador da [AmazoNext](https://github.com/amazonext)
 
-🚀 Adoro transformar ideias em código e explorar novas tecnologias para criar soluções reais.
+🚀 Apaixonado em transformar ideias em código e explorar novas tecnologias para criar soluções reais.
 
 ---
 
